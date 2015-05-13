@@ -9,3 +9,6 @@ cachemean <- function(x, ...) {
     x$setmean(m)
     m
 }
+
+#    ### prepped by WhitefishDontJump (aka J Raphael), 2014 & 2015
+#    repeating course as CTA

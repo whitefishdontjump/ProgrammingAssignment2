@@ -11,3 +11,6 @@ makeVector <- function(x = numeric()) {
          setmean = setmean,
          getmean = getmean)
 }
+
+### prepped by WhitefishDontJump (aka J Raphael), 2014 & 2015
+### repeating course as CTA

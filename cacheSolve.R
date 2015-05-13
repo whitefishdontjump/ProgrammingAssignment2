@@ -26,7 +26,7 @@
 # 
 #  Note: these functions assume a valid invertible matrix is used.
 #
-#  Prepared by John Raphael, April 2014, for RP-002 assignment
+#  Prepared May 2015 by WhiteFishDontJump
 #######################################################################
 
 cacheSolve <- function(x, ...) {

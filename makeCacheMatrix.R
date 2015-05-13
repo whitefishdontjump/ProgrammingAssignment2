@@ -7,7 +7,7 @@
 #
 #    Note: the argument x must be an invertible square matrix.
 #    If no argument is given, then a 1 x 1 matrix, data = NA is created.
-#    Prepared by John Raphael, April 2014, for RP-002 assignment.
+#    Prepared May 2015 by WhiteFishDontJump
 #######################################################################
 
 makeCacheMatrix <- function(x = matrix()) {
